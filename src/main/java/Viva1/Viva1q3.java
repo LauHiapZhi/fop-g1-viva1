@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ethan
+ * @author YongWenGuan
  */
 public class Viva1q3 {
 
