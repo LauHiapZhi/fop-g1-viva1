@@ -9,7 +9,7 @@ package Viva1;
  * @author ethan
  */
 import java.util.Scanner;
-public class Viva1q2 {
+public class Q2 {
     public static void main(String[] args) {
         int plannedPayment,annualInterest,holidayMonth = 0,count = 1, raisedCount = 0;
         double monthlyInterest,outstandingBalance,totalInterest = 0, lateFee = 0,totalPaid = 0,minimumPayment;

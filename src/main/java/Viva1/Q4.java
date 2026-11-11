@@ -8,6 +8,6 @@ package Viva1;
  *
  * @author ethan
  */
-public class Viva1q5 {
+public class Q4 {
     
 }
